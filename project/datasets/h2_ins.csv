@@ -1,0 +1,1339 @@
+age,sex,bmi,children,smoker,charges,city,region
+19,female,27.9,0,yes,16884.924,Beechwood,northeast
+18,male,33.77,1,no,1725.5523,Louisville,northwest
+28,male,33.0,3,no,4449.462,Merriam,northwest
+33,male,22.705,0,no,21984.47061,Liberty,southeast
+32,male,28.88,0,no,3866.8552,Red Oak,southwest
+31,female,25.74,0,no,3756.6216,New Germany,northwest
+46,female,33.44,1,no,8240.5896,Kansas City,northwest
+37,female,27.74,3,no,7281.5056,Hobart,northeast
+37,male,29.83,2,no,6406.4107,Versailles,southeast
+60,female,25.84,0,no,28923.13692,Pinckney,northeast
+25,male,26.22,0,no,2721.3208,Flatonia,southwest
+62,female,26.29,0,yes,27808.7251,Combine,southwest
+23,male,34.4,0,no,1826.843,Clarksville,northeast
+56,female,39.82,0,no,11090.7178,Big Falls,northwest
+27,male,42.13,0,yes,39611.7577,Dora,southeast
+19,male,24.6,1,no,1837.237,Mattawan,northeast
+52,female,30.78,1,no,10797.3362,West Liberty,southeast
+23,male,23.845,0,no,2395.17155,Edgerton,northeast
+56,male,40.3,0,no,10602.385,Greene,northwest
+30,male,35.3,0,yes,36837.467,Terral,southwest
+60,female,36.005,0,no,13228.84695,Fleming,northwest
+30,female,32.4,1,no,4149.736,Ashland,northwest
+18,male,34.1,0,no,1137.011,Persia,northwest
+34,female,31.92,1,yes,37701.8768,Wilburton,southwest
+37,male,28.025,2,no,6203.90175,Meadowlands,northwest
+59,female,27.72,3,no,14001.1338,Woodsdale,northeast
+63,female,23.085,0,no,14451.83515,Nashville,northeast
+55,female,32.775,2,no,12268.63225,Plymouth,northeast
+23,male,17.385,1,no,2775.19215,St. Charles,northwest
+31,male,36.3,2,yes,38711.0,Redfield,southwest
+22,male,35.6,0,yes,35585.576,Celeryville,northeast
+18,female,26.315,0,no,2198.18985,Haslett,northeast
+19,female,28.6,5,no,4687.797,Russia,northeast
+63,male,28.31,0,no,13770.0979,Moorefield,southwest
+28,male,36.4,1,yes,51194.55914,Cullen,southwest
+19,male,20.425,0,no,1625.43375,Modoc,northeast
+62,female,32.965,3,no,15612.19335,Portland,southeast
+26,male,20.8,0,no,2302.3,Midtown,southeast
+35,male,36.67,1,yes,39774.2763,Palmer,northwest
+60,male,39.9,0,yes,48173.361,Holcomb,southeast
+24,female,26.6,0,no,3046.062,Hollandale,southeast
+31,female,36.63,2,no,4949.7587,Heritage Creek,southeast
+41,male,21.78,1,no,6272.4772,Albany,southeast
+37,female,30.8,2,no,6313.759,Tower Lakes,northeast
+38,male,37.05,1,no,6079.6715,Verdon,northwest
+55,male,37.3,0,no,20630.28351,Fremont,northeast
+18,female,38.665,2,no,3393.35635,Bluff Dale,southwest
+28,female,34.77,0,no,3556.9223,Brooksville,southwest
+60,female,24.53,0,no,12629.8967,Rugby,northwest
+36,male,35.2,1,yes,38709.176,Como,southeast
+18,female,35.625,0,no,2211.13075,New Cambria,northwest
+21,female,33.63,2,no,3579.8287,Lindsay,southwest
+48,male,28.0,1,yes,23568.272,Bon Secour,southeast
+36,male,34.43,0,yes,37742.5757,Las Lomitas,southwest
+40,female,28.69,3,no,8059.6791,Bessemer,northeast
+58,male,36.955,2,yes,47496.49445,Irvington,northeast
+58,female,31.825,2,no,13607.36875,Mackinaw City,northeast
+18,male,31.68,2,yes,34303.1672,Hillside Acres,southwest
+53,female,22.88,1,yes,23244.7902,Brookfield,northeast
+34,female,37.335,2,no,5989.52365,Keystone,northwest
+43,male,27.36,3,no,8606.2174,Yellville,southwest
+25,male,33.66,4,no,4504.6624,Smyrna,southeast
+64,male,24.7,1,no,30166.61817,Tenstrike,northwest
+28,female,25.935,1,no,4133.64165,Ridgely,northwest
+20,female,22.42,0,yes,14711.7438,Greenfield,northeast
+19,female,28.9,0,no,1743.214,Eden Prairie,northwest
+61,female,39.1,2,no,14235.072,Doolittle,southwest
+40,male,26.315,1,no,6389.37785,Andrews,southwest
+40,female,36.19,0,no,5920.1041,McGregor,northwest
+28,male,23.98,3,yes,17663.1442,Fairfield Bay,southwest
+27,female,24.75,0,yes,16577.7795,Kewanee,northeast
+31,male,28.5,5,no,6799.458,Foraker,southwest
+53,female,28.1,3,no,11741.726,Proctor,northwest
+58,male,32.01,1,no,11946.6259,Parkdale,northwest
+44,male,27.4,2,no,7726.854,Chula Vista,southwest
+57,male,34.01,0,no,11356.6609,Fabens,southwest
+29,female,29.59,1,no,3947.4131,Westboro,northeast
+21,male,35.53,0,no,1532.4697,Ore City,southwest
+22,female,39.805,0,no,2755.02095,Gretna,northwest
+41,female,32.965,0,no,6571.02435,Fair Plain,northeast
+31,male,26.885,1,no,4441.21315,Green Mountain,northwest
+45,female,38.285,0,no,7935.29115,Viola,northeast
+22,male,37.62,1,yes,37165.1638,South Barrington,northeast
+48,female,41.23,4,no,11033.6617,Rose,southwest
+37,female,34.8,2,yes,39836.519,Dodgeville,northeast
+45,male,22.895,2,yes,21098.55405,Melrose,northeast
+57,female,31.16,0,yes,43578.9394,Butler,northwest
+56,female,27.2,0,no,11073.176,Dexter,southeast
+46,female,27.74,0,no,8026.6666,Unicoi,southeast
+55,female,26.98,0,no,11082.5772,Milan,northwest
+21,female,39.49,0,no,2026.9741,Somerville,northeast
+53,female,24.795,1,no,10942.13205,Athol,northwest
+59,male,29.83,3,yes,30184.9367,Roma,southwest
+35,male,34.77,2,no,5729.0053,Britton,northeast
+64,female,31.3,2,yes,47291.055,Negaunee,northeast
+28,female,37.62,1,no,3766.8838,Tecumseh,northwest
+54,female,30.8,3,no,12105.32,Mowrystown,northeast
+55,male,38.28,0,no,10226.2842,Kirby,northeast
+56,male,19.95,0,yes,22412.6485,Pawnee,southwest
+38,male,19.3,0,yes,15820.699,New Vienna,northeast
+41,female,31.6,0,no,6186.127,Menlo,northwest
+30,male,25.46,0,no,3645.0894,Cement City,northeast
+18,female,30.115,0,no,21344.8467,Reinbeck,northwest
+61,female,29.92,3,yes,30942.1918,West St. Paul,northwest
+34,female,27.5,1,no,5003.853,Mark,northeast
+20,male,28.025,1,yes,17560.37975,Devol,southwest
+19,female,28.4,1,no,2331.519,Marksville,southwest
+26,male,30.875,2,no,3877.30425,Perkinsville,northeast
+29,male,27.94,0,no,2867.1196,Wanatah,northeast
+63,male,35.09,0,yes,47055.5321,Colorado Acres,southwest
+54,male,33.63,1,no,10825.2537,Ecorse,northeast
+55,female,29.7,2,no,11881.358,Rustic Acres Colony,northwest
+37,male,30.8,0,no,4646.759,Syracuse,northwest
+21,female,35.72,0,no,2404.7338,Montgomery,northeast
+52,male,32.205,3,no,11488.31695,Roman Forest,southwest
+60,male,28.595,0,no,30259.99556,St. Paul,northwest
+58,male,49.06,0,no,11381.3254,Camp Douglas,northeast
+29,female,27.94,1,yes,19107.7796,The Lakes,northwest
+49,female,27.17,0,no,8601.3293,Sharpsburg,northwest
+37,female,23.37,2,no,6686.4313,Warren City,southwest
+44,male,37.1,2,no,7740.337,Gilbert,southwest
+18,male,23.75,0,no,1705.6245,Tarlton,northeast
+20,female,28.975,0,no,2257.47525,Grand Isle,southwest
+44,male,31.35,1,yes,39556.4945,Lemont,northeast
+47,female,33.915,3,no,10115.00885,New Albany,southeast
+26,female,28.785,0,no,3385.39915,Oakley,northeast
+19,female,28.3,0,yes,17081.08,Lake Lillian,northwest
+52,female,37.4,0,no,9634.538,Kendall,northeast
+32,female,17.765,2,yes,32734.1863,Winamac,northeast
+38,male,34.7,2,no,6082.405,West Concord,northwest
+59,female,26.505,0,no,12815.44495,Clifton,southwest
+61,female,22.04,0,no,13616.3586,Delavan,northwest
+53,female,35.9,2,no,11163.568,Pattison,southeast
+19,male,25.555,0,no,1632.56445,Mississippi State,southeast
+20,female,28.785,0,no,2457.21115,Livonia,northeast
+22,female,28.05,0,no,2155.6815,Anoka,northwest
+19,male,34.1,0,no,1261.442,La Rose,northeast
+22,male,25.175,0,no,2045.68525,Bovey,northwest
+54,female,31.9,3,no,27322.73386,Lankin,northwest
+22,female,36.0,0,no,2166.732,Wasta,northwest
+34,male,22.42,2,no,27375.90478,Yorktown,northeast
+26,male,32.49,1,no,3490.5491,Ashland,northeast
+34,male,25.3,2,yes,18972.495,Detroit,northeast
+29,male,29.735,2,no,18157.876,Washburn,northeast
+30,male,28.69,3,yes,20745.9891,Severy,northwest
+29,female,38.83,3,no,5138.2567,Clitherall,northwest
+46,male,30.495,3,yes,40720.55105,Exline,northwest
+51,female,37.73,1,no,9877.6077,Decatur,northeast
+53,female,37.43,1,no,10959.6947,Mount Etna,northeast
+19,male,28.4,1,no,1842.519,Dunlap,southeast
+35,male,24.13,1,no,5125.2157,Patriot,northeast
+48,male,29.7,0,no,7789.635,Broughton,northeast
+32,female,37.145,3,no,6334.34355,Cullen,southwest
+42,female,23.37,0,yes,19964.7463,Waldo,northeast
+40,female,25.46,1,no,7077.1894,Black Jack,northwest
+44,male,39.52,0,no,6948.7008,Lake View,southeast
+48,male,24.42,0,yes,21223.6758,Leslie,northeast
+18,male,25.175,0,yes,15518.18025,Whiting,northeast
+30,male,35.53,0,yes,36950.2567,Lake City,northwest
+50,female,27.83,3,no,19749.38338,Almena,northwest
+42,female,26.6,0,yes,21348.706,Naper,northwest
+18,female,36.85,0,yes,36149.4835,Oxford,southeast
+54,male,39.6,1,no,10450.552,Lisbon,northeast
+32,female,29.8,2,no,5152.134,Wapanucka,southwest
+37,male,29.64,0,no,5028.1466,Loop,southwest
+47,male,28.215,4,no,10407.08585,New Market,northeast
+20,female,37.0,5,no,4830.63,Silver Bay,northwest
+32,female,33.155,3,no,6128.79745,Patoka,northeast
+19,female,31.825,1,no,2719.27975,Farmersville,northeast
+27,male,18.905,3,no,4827.90495,Monticello,northwest
+63,male,41.47,0,no,13405.3903,Dorchester,northwest
+49,male,30.3,0,no,8116.68,Mina,northwest
+18,male,15.96,0,no,1694.7964,Utica,northwest
+35,female,34.8,1,no,5246.047,Iona,northwest
+24,female,33.345,0,no,2855.43755,Dwight,northwest
+63,female,37.7,0,yes,48824.45,Swea City,northwest
+38,male,27.835,2,no,6455.86265,Bivins,southwest
+54,male,29.2,1,no,10436.096,Paducah,southwest
+46,female,28.9,2,no,8823.279,Pecatonica,northeast
+41,female,33.155,3,no,8538.28845,Moore,southwest
+58,male,28.595,0,no,11735.87905,Cutler,northeast
+18,female,38.28,0,no,1631.8212,Shaker Heights,northeast
+22,male,19.95,3,no,4005.4225,Flat Rock,northeast
+44,female,26.41,0,no,7419.4779,Sauk Centre,northwest
+44,male,30.69,2,no,7731.4271,Brant Lake South,northwest
+36,male,41.895,3,yes,43753.33705,Linden,southeast
+26,female,29.92,2,no,3981.9768,Burton,northeast
+30,female,30.9,3,no,5325.651,Winslow,northeast
+41,female,32.2,1,no,6775.961,Arnold,northwest
+29,female,32.11,2,no,4922.9159,Hanley Hills,northwest
+61,male,31.57,0,no,12557.6053,Tibbie,southeast
+36,female,26.2,0,no,4883.866,Zurich,northwest
+25,male,25.74,0,no,2137.6536,Lake Petersburg,northeast
+56,female,26.6,1,no,12044.342,Woodland Hills,southeast
+18,male,34.43,0,no,1137.4697,Oronoco,northwest
+19,male,30.59,0,no,1639.5631,Mayville,northeast
+39,female,32.8,0,no,5649.715,Clear Lake,northeast
+45,female,28.6,2,no,8516.829,Shorewood,northwest
+51,female,18.05,0,no,9644.2525,Scottsville,southeast
+64,female,39.33,0,no,14901.5167,Dawson,northeast
+19,female,32.11,0,no,2130.6759,Iowa Falls,northwest
+48,female,32.23,1,no,8871.1517,Marion,southwest
+60,female,24.035,0,no,13012.20865,Wynot,northwest
+27,female,36.08,0,yes,37133.8982,Owensburg,northeast
+46,male,22.3,0,no,7147.105,Scott AFB,northeast
+28,female,28.88,1,no,4337.7352,Mariah Hill,northeast
+59,male,26.4,0,no,11743.299,Gamaliel,southwest
+35,male,27.74,2,yes,20984.0936,Colony,southwest
+63,female,31.8,0,no,13880.949,Alden,northwest
+40,male,41.23,1,no,6610.1097,Lewisville,northeast
+20,male,33.0,1,no,1980.07,Northrop,northwest
+40,male,30.875,4,no,8162.71625,Gillham,southwest
+24,male,28.5,2,no,3537.703,Fort Campbell North,southeast
+34,female,26.73,1,no,5002.7827,Ridgely,northwest
+45,female,30.9,2,no,8520.026,Waxahachie,southwest
+41,female,37.1,2,no,7371.772,Pottawattamie Park,northeast
+53,female,26.6,0,no,10355.641,Scott,northeast
+27,male,23.1,0,no,2483.736,Franklin Furnace,northeast
+26,female,29.92,1,no,3392.9768,Pell City,southeast
+24,female,23.21,0,no,25081.76784,Pflugerville,southwest
+34,female,33.7,1,no,5012.471,Muscoda,northeast
+53,female,33.25,0,no,10564.8845,Church Point,southwest
+32,male,30.8,3,no,5253.524,Carlyle,northeast
+19,male,34.8,0,yes,34779.615,South Williamson,southeast
+42,male,24.64,0,yes,19515.5416,Schaefer Lake,northeast
+55,male,33.88,3,no,11987.1682,Roseville,northwest
+28,male,38.06,0,no,2689.4954,Bradford,southeast
+58,female,41.91,0,no,24227.33724,Darrtown,northeast
+41,female,31.635,1,no,7358.17565,Morristown,northwest
+47,male,25.46,2,no,9225.2564,Ortonville,northwest
+42,female,36.195,1,no,7443.64305,Stearns,southeast
+59,female,27.83,3,no,14001.2867,Avoca,northwest
+19,female,17.8,0,no,1727.785,Corsicana,southwest
+59,male,27.5,1,no,12333.828,Franklin,northeast
+39,male,24.51,2,no,6710.1919,Grove City,northwest
+40,female,22.22,2,yes,19444.2658,Gonzales,southwest
+18,female,26.73,0,no,1615.7667,Amherst,northeast
+31,male,38.39,2,no,4463.2051,Hoisington,northwest
+19,male,29.07,0,yes,17352.6803,Cashion,southwest
+44,male,38.06,1,no,7152.6714,Middle Point,northeast
+23,female,36.67,2,yes,38511.6283,Garnavillo,northwest
+33,female,22.135,1,no,5354.07465,Whitesboro,southeast
+55,female,26.8,1,no,35160.13457,Kellogg,northwest
+40,male,35.3,3,no,7196.867,Bassett,southwest
+63,female,27.74,0,yes,29523.1656,Toad Hop,northeast
+54,male,30.02,0,no,24476.47851,Souris,northwest
+60,female,38.06,0,no,12648.7034,Willoughby,northeast
+24,male,35.86,0,no,1986.9334,Jasper,southwest
+19,male,20.9,1,no,1832.094,Sharon,northwest
+29,male,28.975,1,no,4040.55825,Selma,northeast
+18,male,17.29,2,yes,12829.4551,Aurora,northeast
+63,female,32.2,2,yes,47305.305,Sterling,southwest
+54,male,34.21,2,yes,44260.7499,Highland Heights,northeast
+27,male,30.3,3,no,4260.744,Waco,southwest
+50,male,31.825,0,yes,41097.16175,Riverdale,northeast
+55,female,25.365,3,no,13047.33235,Hiawatha,northwest
+56,male,33.63,0,yes,43921.1837,Pryorsburg,southeast
+38,female,40.15,0,no,5400.9805,Seiling,southwest
+51,male,24.415,4,no,11520.09985,Parker,southwest
+19,male,31.92,0,yes,33750.2918,Milan,northeast
+58,female,25.2,0,no,11837.16,Sixteen Mile Stand,northeast
+20,female,26.84,1,yes,17085.2676,Woodland Hills,northwest
+52,male,24.32,3,yes,24869.8368,Tracy City,southeast
+19,male,36.955,0,yes,36219.40545,Bradford,northeast
+53,female,38.06,3,no,20462.99766,Wilsonville,northeast
+46,male,42.35,3,yes,46151.1245,Venedy,northeast
+40,male,19.8,1,yes,17179.522,Spring Bay,northeast
+59,female,32.395,3,no,14590.63205,Johnson,northeast
+45,male,30.2,1,no,7441.053,Elk Creek,northwest
+49,male,25.84,1,no,9282.4806,Apison,southeast
+18,male,29.37,1,no,1719.4363,Ranier,northwest
+50,male,34.2,2,yes,42856.838,Pope,southeast
+41,male,37.05,2,no,7265.7025,Frontier,northwest
+50,male,27.455,1,no,9617.66245,Elliott,northwest
+25,male,27.55,0,no,2523.1695,Lake View,northwest
+47,female,26.6,2,no,9715.841,Rosita,southwest
+19,male,20.615,2,no,2803.69785,Wellington,southeast
+22,female,24.3,0,no,2150.469,Shubuta,southeast
+59,male,31.79,2,no,12928.7911,Waterloo,northeast
+51,female,21.56,1,no,9855.1314,North Lake,northeast
+40,female,28.12,1,yes,22331.5668,Shuqualak,southeast
+54,male,40.565,3,yes,48549.17835,Brackettville,southwest
+30,male,27.645,1,no,4237.12655,Keota,southwest
+55,female,32.395,1,no,11879.10405,West Leipsic,northeast
+52,female,31.2,0,no,9625.92,Gosnell,southwest
+46,male,26.62,1,no,7742.1098,Hebron,northeast
+46,female,48.07,2,no,9432.9253,Sperry,southwest
+63,female,26.22,0,no,14256.1928,Russell,northwest
+59,female,36.765,1,yes,47896.79135,Mount Morris,northeast
+52,male,26.4,3,no,25992.82104,Noble,southwest
+28,female,33.4,0,no,3172.018,Crivitz,northeast
+29,male,29.64,1,no,20277.80751,Longdale,southwest
+25,male,45.54,2,yes,42112.2356,Diamondhead,southeast
+22,female,28.82,0,no,2156.7518,Riceville,southeast
+25,male,26.8,3,no,3906.127,East Bernstadt,southeast
+18,male,22.99,0,no,1704.5681,McComb,southeast
+19,male,27.7,0,yes,16297.846,Enchanted Hills,northeast
+47,male,25.41,1,yes,21978.6769,Enderlin,northwest
+31,male,34.39,3,yes,38746.3551,La Plant,northwest
+48,female,28.88,1,no,9249.4952,Carlisle,northeast
+36,male,27.55,3,no,6746.7425,Barataria,southwest
+53,female,22.61,3,yes,24873.3849,South Greenfield,northwest
+56,female,37.51,2,no,12265.5069,Dalton,northeast
+28,female,33.0,2,no,4349.462,Vandalia,northeast
+57,female,38.0,2,no,12646.207,Middletown,northeast
+29,male,33.345,2,no,19442.3535,Prague,northwest
+28,female,27.5,2,no,20177.67113,Lockport,northeast
+30,female,33.33,1,no,4151.0287,Crittenden,southeast
+58,male,34.865,0,no,11944.59435,Lyons,northeast
+41,female,33.06,2,no,7749.1564,Fort Deposit,southeast
+50,male,26.6,0,no,8444.474,Noonan,northwest
+19,female,24.7,0,no,1737.376,Bass Lake,northeast
+43,male,35.97,3,yes,42124.5153,Washington,southwest
+49,male,35.86,0,no,8124.4084,Detroit,northwest
+27,female,31.4,0,yes,34838.873,Pocasset,southwest
+52,male,33.25,0,no,9722.7695,Worthing,northwest
+50,male,32.205,0,no,8835.26495,Clarksville,southwest
+54,male,32.775,0,no,10435.06525,Randall,northwest
+44,female,27.645,0,no,7421.19455,Butler,southeast
+32,male,37.335,1,no,4667.60765,Giltner,northwest
+34,male,25.27,1,no,4894.7533,Wolverine,northeast
+26,female,29.64,4,no,24671.66334,Austin,southwest
+34,male,30.8,0,yes,35491.64,Winona,southwest
+57,male,40.945,0,no,11566.30055,Riverton,northwest
+29,male,27.2,0,no,2866.091,Rome City,northeast
+40,male,34.105,1,no,6600.20595,Lake Ann,northeast
+27,female,23.21,1,no,3561.8889,Cassopolis,northeast
+45,male,36.48,2,yes,42760.5022,Bloomfield,northeast
+64,female,33.8,1,yes,47928.03,Graham,northwest
+52,male,36.7,0,no,9144.565,Frankfort,northwest
+61,female,36.385,1,yes,48517.56315,Utica,northwest
+52,male,27.36,0,yes,24393.6224,Hooven,northeast
+61,female,31.16,0,no,13429.0354,Maybee,northeast
+56,female,28.785,0,no,11658.37915,Nardin,southwest
+43,female,35.72,2,no,19144.57652,Tallassee,southeast
+64,male,34.5,0,no,13822.803,Newtonia,northwest
+60,male,25.74,0,no,12142.5786,Vermillion,northwest
+62,male,27.55,1,no,13937.6665,Greensburg,northwest
+50,male,32.3,1,yes,41919.097,Speedway,northeast
+46,female,27.72,1,no,8232.6388,Colby,northwest
+24,female,27.6,0,no,18955.22017,Mount Juliet,southeast
+62,male,30.02,0,no,13352.0998,Black,southeast
+60,female,27.55,0,no,13217.0945,Tennessee Ridge,southeast
+63,male,36.765,0,no,13981.85035,Williamstown,southeast
+49,female,41.47,4,no,10977.2063,Clyman,northeast
+34,female,29.26,3,no,6184.2994,Vanceburg,southeast
+33,male,35.75,2,no,4889.9995,Prado Verde,southwest
+46,male,33.345,1,no,8334.45755,Herman,northwest
+36,female,29.92,1,no,5478.0368,Waldo,northeast
+19,male,27.835,0,no,1635.73365,Lynchburg,southeast
+57,female,23.18,0,no,11830.6072,Galt,northwest
+50,female,25.6,0,no,8932.084,Green Bay,northeast
+30,female,27.7,0,no,3554.203,Darrtown,northeast
+33,male,35.245,0,no,12404.8791,Marshall,northeast
+18,female,38.28,0,no,14133.03775,Sparta,northwest
+46,male,27.6,0,no,24603.04837,Montreal,northwest
+46,male,43.89,3,no,8944.1151,Ironton,northwest
+47,male,29.83,3,no,9620.3307,Montmorenci,northeast
+23,male,41.91,0,no,1837.2819,Martinsburg,northeast
+18,female,20.79,0,no,1607.5101,Corning,northwest
+48,female,32.3,2,no,10043.249,Pettit,southwest
+35,male,30.5,1,no,4751.07,Washburn,northwest
+19,female,21.7,0,yes,13844.506,Utica,northwest
+21,female,26.4,1,no,2597.779,Harrietta,northeast
+21,female,21.89,2,no,3180.5101,Springbrook,northwest
+49,female,30.78,1,no,9778.3472,Sumrall,southeast
+56,female,32.3,3,no,13430.265,Chalmers,northeast
+42,female,24.985,2,no,8017.06115,Greeneville,southeast
+44,male,32.015,2,no,8116.26885,Worthington,southeast
+18,male,30.4,3,no,3481.868,Walshville,northeast
+61,female,21.09,0,no,13415.0381,Southfield,northeast
+57,female,22.23,0,no,12029.2867,Buckland,northeast
+42,female,33.155,1,no,7639.41745,Tina,northwest
+26,male,32.9,2,yes,36085.219,Leonardville,northwest
+20,male,33.33,0,no,1391.5287,Bentley,northwest
+23,female,28.31,0,yes,18033.9679,West Crossett,southwest
+39,female,24.89,3,yes,21659.9301,Williston,southeast
+24,male,40.15,0,yes,38126.2465,White Plains,southeast
+64,female,30.115,3,no,16455.70785,Oxford,northwest
+62,male,31.46,1,no,27000.98473,New Riegel,northeast
+27,female,17.955,2,yes,15006.57945,Velda City,northwest
+55,male,30.685,0,yes,42303.69215,Morrowville,northwest
+55,male,33.0,0,no,20781.48892,Delaware,southwest
+35,female,43.34,2,no,5846.9176,Spiro,southwest
+44,male,22.135,2,no,8302.53565,Poplar Hills,southeast
+19,male,34.4,0,no,1261.859,Orchard,southwest
+58,female,39.05,0,no,11856.4115,Lakewood,northeast
+50,male,25.365,2,no,30284.64294,Holton,northeast
+26,female,22.61,0,no,3176.8159,Powhatan,southwest
+24,female,30.21,3,no,4618.0799,Dorchester,northeast
+48,male,35.625,4,no,10736.87075,Brush Creek,southwest
+19,female,37.43,0,no,2138.0707,Mount Orab,northeast
+48,male,31.445,1,no,8964.06055,Highland Lakes,southeast
+49,male,31.35,1,no,9290.1395,Lambert,northwest
+46,female,32.3,2,no,9411.005,Potosi,northeast
+46,male,19.855,0,no,7526.70645,Iowa Falls,northwest
+43,female,34.4,3,no,8522.003,Sachse,southwest
+21,male,31.02,0,no,16586.49771,Vidor,southwest
+64,male,25.6,2,no,14988.432,Mill Creek,southwest
+18,female,38.17,0,no,1631.6683,Benton,southeast
+51,female,20.6,0,no,9264.797,Lake Villa,northeast
+47,male,47.52,1,no,8083.9198,Hanley Falls,northwest
+64,female,32.965,0,no,14692.66935,Oblong,northeast
+49,male,32.3,3,no,10269.46,Lincolnshire,northeast
+31,male,20.4,0,no,3260.199,Warren Park,northeast
+52,female,38.38,2,no,11396.9002,Wortham,southwest
+33,female,24.31,0,no,4185.0979,Oahe Acres,northwest
+47,female,23.6,1,no,8539.671,Dongola,northeast
+38,male,21.12,3,no,6652.5288,Odessa,northwest
+32,male,30.03,1,no,4074.4537,Katy,southwest
+19,male,17.48,0,no,1621.3402,Menahga,northwest
+44,female,20.235,1,yes,19594.80965,Frontenac,northwest
+26,female,17.195,2,yes,14455.64405,Newtonville,northeast
+25,male,23.9,5,no,5080.096,Chidester,southwest
+19,female,35.15,0,no,2134.9015,Carrington,northwest
+43,female,35.64,1,no,7345.7266,Ross,northeast
+52,male,34.1,0,no,9140.951,Urbana,northwest
+36,female,22.6,2,yes,18608.262,Lewis,northeast
+64,male,39.16,1,no,14418.2804,Lee,northeast
+63,female,26.98,0,yes,28950.4692,Redwater,southeast
+64,male,33.88,0,yes,46889.2612,South Haven,northeast
+61,male,35.86,0,yes,46599.1084,Whitley City,southeast
+40,male,32.775,1,yes,39125.33225,Davis Junction,northeast
+25,male,30.59,0,no,2727.3951,Hetland,northwest
+48,male,30.2,2,no,8968.33,New Market,northeast
+45,male,24.31,5,no,9788.8659,Kennan,northeast
+38,female,27.265,1,no,6555.07035,Bellefonte,southwest
+18,female,29.165,0,no,7323.734819,Snyder,northwest
+21,female,16.815,1,no,3167.45585,North Loup,northwest
+27,female,30.4,3,no,18804.7524,Fairmount,northwest
+19,male,33.1,0,no,23082.95533,Blountsville,southeast
+29,female,20.235,2,no,4906.40965,Creola,southeast
+42,male,26.9,0,no,5969.723,Durango,northwest
+60,female,30.5,0,no,12638.195,Paxton,northeast
+31,male,28.595,1,no,4243.59005,Marinette,northeast
+60,male,33.11,3,no,13919.8229,Hamilton,northeast
+22,male,31.73,0,no,2254.7967,Arabi,southwest
+35,male,28.9,3,no,5926.846,Millersport,northeast
+52,female,46.75,5,no,12592.5345,Winfield,northeast
+26,male,29.45,0,no,2897.3235,Oxford,northeast
+31,female,32.68,1,no,4738.2682,Dayton,northeast
+33,female,33.5,0,yes,37079.372,Lone Oak,southwest
+18,male,43.01,0,no,1149.3959,Mildred,southwest
+59,female,36.52,1,no,28287.89766,Humboldt,northwest
+56,male,26.695,1,yes,26109.32905,Elkhart,northeast
+45,female,33.1,0,no,7345.084,Artas,northwest
+60,male,29.64,0,no,12730.9996,Paris,southeast
+56,female,25.65,0,no,11454.0215,London Mills,northeast
+40,female,29.6,0,no,5910.944,Osceola,northwest
+35,male,38.6,1,no,4762.329,Woolstock,northwest
+39,male,29.6,4,no,7512.267,Talala,southwest
+30,male,24.13,1,no,4032.2407,Glendora,southeast
+24,male,23.4,0,no,1969.614,Oneida,southwest
+20,male,29.735,0,no,1769.53165,Norway,northwest
+32,male,46.53,2,no,4686.3887,Corn,southwest
+59,male,37.4,0,no,21797.0004,Fort Polk North,southwest
+55,female,30.14,2,no,11881.9696,Bayou Country Club,southwest
+57,female,30.495,0,no,11840.77505,Winthrop Harbor,northeast
+56,male,39.6,0,no,10601.412,Birdsong,southwest
+40,female,33.0,3,no,7682.67,Concordia,northwest
+49,female,36.63,3,no,10381.4787,De Graff,northwest
+42,male,30.0,0,yes,22144.032,Wayne,southwest
+62,female,38.095,2,no,15230.32405,Lisco,northwest
+56,male,25.935,0,no,11165.41765,Deepwater,northwest
+19,male,25.175,0,no,1632.03625,Lexington,northwest
+30,female,28.38,1,yes,19521.9682,Yoder,northwest
+60,female,28.7,1,no,13224.693,Oak Grove,southwest
+56,female,33.82,2,no,12643.3778,Vaiden,southeast
+28,female,24.32,1,no,23288.9284,Niles,northeast
+18,female,24.09,1,no,2201.0971,Whitehall,northeast
+27,male,32.67,0,no,2497.0383,Marcellus,northeast
+18,female,30.115,0,no,2203.47185,Matamoras,northeast
+19,female,29.8,0,no,1744.465,Lake Arrowhead,northeast
+47,female,33.345,0,no,20878.78443,New Buffalo,northeast
+54,male,25.1,3,yes,25382.297,Okemah,southwest
+61,male,28.31,1,yes,28868.6639,Bay View,northeast
+24,male,28.5,0,yes,35147.52848,Jones Mills,southwest
+25,male,35.625,0,no,2534.39375,Stilesville,northeast
+21,male,36.85,0,no,1534.3045,Willshire,northeast
+23,male,32.56,0,no,1824.2854,Amherst,northeast
+63,male,41.325,3,no,15555.18875,Capac,northeast
+49,male,37.51,2,no,9304.7019,Beechwood,northeast
+18,female,31.35,0,no,1622.1885,Horse Creek,northwest
+51,female,39.5,1,no,9880.068,Madrid,northwest
+48,male,34.3,3,no,9563.029,East Liberty,northeast
+31,female,31.065,0,no,4347.02335,Electra,southwest
+54,female,21.47,3,no,12475.3513,Caspian,northeast
+19,male,28.7,0,no,1253.936,Alexandria,northwest
+44,female,38.06,0,yes,48885.13561,Big Spring,southwest
+53,male,31.16,1,no,10461.9794,Dickey,northwest
+19,female,32.9,0,no,1748.774,Bridgeport,southeast
+61,female,25.08,0,no,24513.09126,Pasadena Park,northwest
+18,female,25.08,0,no,2196.4732,Barling,southwest
+61,male,43.4,0,no,12574.049,Morris,northwest
+21,male,25.7,4,yes,17942.106,Beardstown,northeast
+20,male,27.93,0,no,1967.0227,Belle Center,northeast
+31,female,23.6,2,no,4931.647,Easton,northwest
+45,male,28.7,2,no,8027.968,Carey,northeast
+44,female,23.98,2,no,8211.1002,Hume,northeast
+62,female,39.2,0,no,13470.86,Ranburne,southeast
+29,male,34.4,0,yes,36197.699,Lawtonka Acres,southwest
+43,male,26.03,0,no,6837.3687,Knierim,northwest
+51,male,23.21,1,yes,22218.1149,Ewen,northeast
+19,male,30.25,0,yes,32548.3405,Waubay,northwest
+38,female,28.93,1,no,5974.3847,Waterford,northeast
+37,male,30.875,3,no,6796.86325,Monroe,northeast
+22,male,31.35,1,no,2643.2685,Ogden,northwest
+21,male,23.75,2,no,3077.0955,Kewanna,northeast
+24,female,25.27,0,no,3044.2133,Osseo,northwest
+57,female,28.7,0,no,11455.28,McCord Bend,northwest
+56,male,32.11,1,no,11763.0009,Bad Axe,northeast
+27,male,33.66,0,no,2498.4144,Lakota,northwest
+51,male,22.42,0,no,9361.3268,Murphy,southwest
+19,male,30.4,0,no,1256.299,Cantril,northwest
+39,male,28.3,1,yes,21082.16,Eitzen,northwest
+58,male,35.7,0,no,11362.755,Clarksburg,southeast
+20,male,35.31,1,no,27724.28875,Wright-Patterson AFB,northeast
+45,male,30.495,2,no,8413.46305,Lorimor,northwest
+35,female,31.0,1,no,5240.765,Corrigan,southwest
+31,male,30.875,0,no,3857.75925,Rogersville,southeast
+50,female,27.36,0,no,25656.57526,Niangua,northwest
+32,female,44.22,0,no,3994.1778,Pilot Grove,northwest
+51,female,33.915,0,no,9866.30485,Knox,northwest
+38,female,37.73,0,no,5397.6167,Nelson,northwest
+42,male,26.07,1,yes,38245.59327,Herndon,northwest
+18,female,33.88,0,no,11482.63485,McRae,southwest
+19,female,30.59,2,no,24059.68019,Standard,northeast
+51,female,25.8,1,no,9861.025,Edna,southwest
+46,male,39.425,1,no,8342.90875,Bee Branch,southwest
+18,male,25.46,0,no,1708.0014,Diamond,northwest
+57,male,42.13,1,yes,48675.5177,Troy,northeast
+62,female,31.73,0,no,14043.4767,Waggaman,southwest
+59,male,29.7,2,no,12925.886,Kenel,northwest
+37,male,36.19,0,no,19214.70553,Highland Lakes,southeast
+64,male,40.48,0,no,13831.1152,Libertyville,northeast
+38,male,28.025,1,no,6067.12675,Freeburg,northeast
+33,female,38.9,3,no,5972.378,Alsen,northwest
+46,female,30.2,2,no,8825.086,Kelley,northwest
+46,female,28.05,1,no,8233.0975,Bakersfield,northwest
+53,male,31.35,0,no,27346.04207,Hoffman Lake,northeast
+34,female,38.0,3,no,6196.448,Ferney,northwest
+20,female,31.79,2,no,3056.3881,Ashland,northwest
+63,female,36.3,0,no,13887.204,Center Point,southwest
+54,female,47.41,0,yes,63770.42801,Gridley,northwest
+54,male,30.21,0,no,10231.4999,Trophy Club,southwest
+49,male,25.84,2,yes,23807.2406,Ruthven,northwest
+28,male,35.435,0,no,3268.84665,Timberlane,northeast
+54,female,46.7,2,no,11538.421,Blackwell,southwest
+25,female,28.595,0,no,3213.62205,Agency Village,northwest
+43,female,46.2,0,yes,45863.205,Kingdom City,northwest
+63,male,30.8,0,no,13390.559,Winger,northwest
+32,female,28.93,0,no,3972.9247,Vineyard Lake,northeast
+62,male,21.4,0,no,12957.118,Pleasant Hill,northwest
+52,female,31.73,2,no,11187.6567,Bosworth,northwest
+25,female,41.325,0,no,17878.90068,Wilton,southeast
+28,male,23.8,2,no,3847.674,Rafael Pena,southwest
+46,male,33.44,1,no,8334.5896,West Salem,northeast
+34,male,34.21,0,no,3935.1799,Huntleigh,northwest
+35,female,34.105,3,yes,39983.42595,Marfa,southwest
+19,male,35.53,0,no,1646.4297,Zena,southwest
+46,female,19.95,2,no,9193.8385,Theresa,northeast
+54,female,32.68,0,no,10923.9332,South Whitley,northeast
+27,male,30.5,0,no,2494.022,Lone Elm,northwest
+50,male,44.77,1,no,9058.7303,Perry,northeast
+18,female,32.12,2,no,2801.2588,East Galesburg,northeast
+19,female,30.495,0,no,2128.43105,Rockton,northeast
+38,female,40.565,1,no,6373.55735,John Sevier,southeast
+41,male,30.59,2,no,7256.7231,Phoenix,northeast
+49,female,31.9,5,no,11552.904,Highland,northeast
+48,male,40.565,2,yes,45702.02235,Clinton,northeast
+31,female,29.1,0,no,3761.292,Nevada,northwest
+18,female,37.29,1,no,2219.4451,Carrizo Springs,southwest
+30,female,43.12,2,no,4753.6368,Americus,northeast
+62,female,36.86,1,no,31620.00106,Palmyra,northeast
+57,female,34.295,2,no,13224.05705,Braman,southwest
+58,female,27.17,0,no,12222.8983,Fannett,southwest
+22,male,26.84,0,no,1664.9996,Aldrich,northwest
+31,female,38.095,1,yes,58571.07448,Ellinger,southwest
+52,male,30.2,1,no,9724.53,Hampton,southwest
+25,female,23.465,0,no,3206.49135,Hull,northeast
+59,male,25.46,1,no,12913.9924,Duncan,southwest
+19,male,30.59,0,no,1639.5631,Broseley,northwest
+39,male,45.43,2,no,6356.2707,Vicco,southeast
+32,female,23.65,1,no,17626.23951,Hayden,northeast
+19,male,20.7,0,no,1242.816,Overton,northwest
+33,female,28.27,1,no,4779.6023,Oak Island,southwest
+21,male,20.235,3,no,3861.20965,Marquette,northeast
+34,female,30.21,1,yes,43943.8761,Giltner,northwest
+61,female,35.91,0,no,13635.6379,McHenry,northwest
+38,female,30.69,1,no,5976.8311,Tustin,northeast
+58,female,29.0,0,no,11842.442,McCordsville,northeast
+47,male,19.57,1,no,8428.0693,Rush Hill,northwest
+20,male,31.13,2,no,2566.4707,Sheridan,northeast
+21,female,21.85,1,yes,15359.1045,Chatfield,northwest
+41,male,40.26,0,no,5709.1644,Toeterville,northwest
+46,female,33.725,1,no,8823.98575,Helena,southeast
+42,female,29.48,2,no,7640.3092,Flemington,northwest
+34,female,33.25,1,no,5594.8455,Sharon Springs,northwest
+43,male,32.6,2,no,7441.501,Royal,northeast
+52,female,37.525,2,no,33471.97189,Congerville,northeast
+18,female,39.16,0,no,1633.0444,Burgin,southeast
+51,male,31.635,0,no,9174.13565,Milnor,northwest
+56,female,25.3,0,no,11070.535,Beverly Hills,northwest
+64,female,39.05,3,no,16085.1275,Patton Village,southwest
+19,female,28.31,0,yes,17468.9839,Walker,northwest
+51,female,34.1,0,no,9283.562,Darrouzett,southwest
+27,female,25.175,0,no,3558.62025,Morganfield,southeast
+59,female,23.655,0,yes,25678.77845,West Fork,southwest
+28,male,26.98,2,no,4435.0942,Federal Dam,northwest
+30,male,37.8,2,yes,39241.442,Greenfield,southeast
+47,female,29.37,1,no,8547.6913,Lockport,northeast
+38,female,34.8,2,no,6571.544,Fairdale,northwest
+18,female,33.155,0,no,2207.69745,Ann Arbor,northeast
+34,female,19.0,3,no,6753.038,Bonaparte,northwest
+20,female,33.0,0,no,1880.07,Pellston,northeast
+47,female,36.63,1,yes,42969.8527,Amada Acres,southwest
+56,female,28.595,0,no,11658.11505,Allison,northwest
+49,male,25.6,2,yes,23306.547,St. James,southwest
+19,female,33.11,0,yes,34439.8559,Chisago City,northwest
+55,female,37.1,0,no,10713.644,St. Joseph,southwest
+30,male,31.4,1,no,3659.346,Blodgett,northwest
+37,male,34.1,4,yes,40182.246,Buena Vista,southwest
+49,female,21.3,1,no,9182.17,Indian Springs,southwest
+18,male,33.535,0,yes,34617.84065,Tecumseh,northwest
+59,male,28.785,0,no,12129.61415,Ochelata,southwest
+29,female,26.03,0,no,3736.4647,Loma Linda East,southwest
+36,male,28.88,3,no,6748.5912,Batesville,southeast
+33,male,42.46,1,no,11326.71487,Caledonia,northeast
+58,male,38.0,0,no,11365.952,Missouri City,northwest
+44,female,38.95,0,yes,42983.4585,Rock Falls,northwest
+53,male,36.1,1,no,10085.846,Mooreland,southwest
+24,male,29.3,0,no,1977.815,Primghar,northwest
+29,female,35.53,0,no,3366.6697,Kremlin,southwest
+40,male,22.705,2,no,7173.35995,Bethesda,northeast
+51,male,39.7,1,no,9391.346,Buffalo,northeast
+64,male,38.19,0,no,14410.9321,Aliceville,southeast
+19,female,24.51,1,no,2709.1119,Gainesboro,southeast
+35,female,38.095,2,no,24915.04626,Augusta,southeast
+39,male,26.41,0,yes,20149.3229,Brentwood,southeast
+56,male,33.66,4,no,12949.1554,Dry Prong,southwest
+33,male,42.4,5,no,6666.243,Leasburg,northwest
+42,male,28.31,3,yes,32787.45859,Humboldt,northwest
+61,male,33.915,0,no,13143.86485,Colwich,northwest
+23,female,34.96,3,no,4466.6214,Exira,northwest
+43,male,35.31,2,no,18806.14547,Sallis,southeast
+48,male,30.78,3,no,10141.1362,Mead,southwest
+39,male,26.22,1,no,6123.5688,Wimbledon,northwest
+40,female,23.37,3,no,8252.2843,Wabasha,northwest
+18,male,28.5,0,no,1712.227,Repton,southeast
+58,female,32.965,0,no,12430.95335,Venice,northwest
+49,female,42.68,2,no,9800.8882,Solon Mills,northeast
+53,female,39.6,1,no,10579.711,Livingston,southwest
+48,female,31.13,0,no,8280.6227,Hurley,northwest
+45,female,36.3,2,no,8527.532,Kingsville,southwest
+59,female,35.2,0,no,12244.531,Farnhamville,northwest
+52,female,25.3,2,yes,24667.419,Norway,northwest
+26,female,42.4,1,no,3410.324,Larson,northwest
+27,male,33.155,2,no,4058.71245,Manvel,southwest
+48,female,35.91,1,no,26392.26029,Effingham,northeast
+57,female,28.785,4,no,14394.39815,Greenwood,northeast
+37,male,46.53,3,no,6435.6237,Forest View,northeast
+57,female,23.98,1,no,22192.43711,Jellico,southeast
+32,female,31.54,1,no,5148.5526,Unity,northeast
+18,male,33.66,0,no,1136.3994,Addison,northeast
+64,female,22.99,0,yes,27037.9141,Port William,northeast
+43,male,38.06,2,yes,42560.4304,Macon,northeast
+49,male,28.7,1,no,8703.456,Spearsville,southwest
+40,female,32.775,2,yes,40003.33225,Maybee,northeast
+62,male,32.015,0,yes,45710.20785,Eminence,southeast
+40,female,29.81,1,no,6500.2359,Sherman,southeast
+30,male,31.57,3,no,4837.5823,Beech Grove,northeast
+29,female,31.16,0,no,3943.5954,Wolfforth,southwest
+36,male,29.7,0,no,4399.731,Reedurban,northeast
+41,female,31.02,0,no,6185.3208,Wheeler,southeast
+44,female,43.89,2,yes,46200.9851,Kimball,northwest
+45,male,21.375,0,no,7222.78625,Sulphur Springs,southwest
+55,female,40.81,3,no,12485.8009,Marley,northeast
+60,male,31.35,3,yes,46130.5265,Argonia,northwest
+56,male,36.1,3,no,12363.547,Myrtle,southeast
+49,female,23.18,2,no,10156.7832,Manter,northwest
+21,female,17.4,1,no,2585.269,Pecan Grove,southwest
+19,male,20.3,0,no,1242.26,Van Buren,northeast
+39,male,35.3,2,yes,40103.89,Redbird,southwest
+53,male,24.32,0,no,9863.4718,Sylvania,northeast
+33,female,18.5,1,no,4766.022,Carlos,northwest
+53,male,26.41,2,no,11244.3769,Gardere,southwest
+42,male,26.125,2,no,7729.64575,Rabbit Hash,southeast
+40,male,41.69,0,no,5438.7491,Dennis Acres,northwest
+47,female,24.1,1,no,26236.57997,Bridgeton,northeast
+27,male,31.13,1,yes,34806.4677,Alto Bonito Heights,southwest
+21,male,27.36,0,no,2104.1134,Bainbridge,northeast
+47,male,36.2,1,no,8068.185,Poy Sippi,northeast
+20,male,32.395,1,no,2362.22905,Boulder Junction,northeast
+24,male,23.655,0,no,2352.96845,Royse City,southwest
+27,female,34.8,1,no,3577.999,Monticello,southwest
+26,female,40.185,0,no,3201.24515,Hebbronville,southwest
+53,female,32.3,2,no,29186.48236,Stamps,southwest
+41,male,35.75,1,yes,40273.6455,Weston,northwest
+56,male,33.725,0,no,10976.24575,Gueydan,southwest
+23,female,39.27,2,no,3500.6123,Wiota,northwest
+21,female,34.87,0,no,2020.5523,Plains,southwest
+50,female,44.745,0,no,9541.69555,Farmington,northwest
+53,male,41.47,0,no,9504.3103,Pittsburg,southwest
+34,female,26.41,1,no,5385.3379,Bowman,southwest
+47,female,29.545,1,no,8930.93455,Ulysses,northwest
+33,female,32.9,2,no,5375.038,Jewett,southwest
+51,female,38.06,0,yes,44400.4064,Randall,northwest
+49,male,28.69,3,no,10264.4421,Maynardville,southeast
+31,female,30.495,3,no,6113.23105,Rosedale,southeast
+36,female,27.74,0,no,5469.0066,Beggs,southwest
+18,male,35.2,1,no,1727.54,Gadsden,southeast
+50,female,23.54,2,no,10107.2206,Rafael Pena,southwest
+43,female,30.685,2,no,8310.83915,Coosada,southeast
+20,male,40.47,0,no,1984.4533,Bloomfield,northeast
+24,female,22.6,0,no,2457.502,Cannon Falls,northwest
+60,male,28.9,0,no,12146.971,Gurdon,southwest
+49,female,22.61,1,no,9566.9909,Summit Lake,northeast
+60,male,24.32,1,no,13112.6048,Belvidere,southeast
+51,female,36.67,2,no,10848.1343,Woodlawn Heights,northeast
+58,female,33.44,0,no,12231.6136,Bonfield,northeast
+51,female,40.66,0,no,9875.6804,South Lineville,northwest
+53,male,36.6,3,no,11264.541,Buxton,northwest
+62,male,37.4,0,no,12979.358,Monona,northwest
+19,male,35.4,0,no,1263.249,Ewing,southeast
+50,female,27.075,1,no,10106.13425,River Grove,northeast
+30,female,39.05,3,yes,40932.4295,Ironton,northwest
+41,male,28.405,1,no,6664.68595,Greenwood,southeast
+29,female,21.755,1,yes,16657.71745,Cape Royale,southwest
+18,female,40.28,0,no,2217.6012,Camp Crook,northwest
+41,female,36.08,1,no,6781.3542,Marietta,southeast
+35,male,24.42,3,yes,19361.9988,Lenexa,northwest
+53,male,21.4,1,no,10065.413,Drummond,southwest
+24,female,30.1,3,no,4234.927,Elizabeth,southeast
+48,female,27.265,1,no,9447.25035,Flushing,northeast
+59,female,32.1,3,no,14007.222,Widener,southwest
+49,female,34.77,1,no,9583.8933,Bluejacket,southwest
+37,female,38.39,0,yes,40419.0191,Clarksville,southwest
+26,male,23.7,2,no,3484.331,Ross,southwest
+23,male,31.73,3,yes,36189.1017,Houston,southeast
+29,male,35.5,2,yes,44585.45587,Pass Christian,southeast
+45,male,24.035,2,no,8604.48365,Cullman,southeast
+27,male,29.15,0,yes,18246.4955,Garner,southwest
+53,male,34.105,0,yes,43254.41795,Hickory Ridge,southwest
+31,female,26.62,0,no,3757.8448,Maynard,southwest
+50,male,26.41,0,no,8827.2099,Fordoche,southwest
+50,female,30.115,1,no,9910.35985,La Grange Park,northeast
+34,male,27.0,2,no,11737.84884,Goodell,northwest
+19,male,21.755,0,no,1627.28245,Linn,northwest
+47,female,36.0,1,no,8556.907,Chandler,northeast
+28,male,30.875,0,no,3062.50825,La Vergne,southeast
+37,female,26.4,0,yes,19539.243,Centerville,northwest
+21,male,28.975,0,no,1906.35825,Merwin,northwest
+64,male,37.905,0,no,14210.53595,Covington,southeast
+58,female,22.77,0,no,11833.7823,Hunter,northwest
+24,male,33.63,4,no,17128.42608,Vinton,southwest
+31,male,27.645,2,no,5031.26955,New Amsterdam,northeast
+39,female,22.8,3,no,7985.815,Colfax,northeast
+47,female,27.83,0,yes,23065.4207,Spring Grove,northwest
+30,male,37.43,3,no,5428.7277,Milton,northwest
+18,male,38.17,0,yes,36307.7983,Jones,southwest
+22,female,34.58,2,no,3925.7582,La Clede,northeast
+23,male,35.2,1,no,2416.955,Gholson,southwest
+33,male,27.1,1,yes,19040.876,Cayce,southeast
+27,male,26.03,0,no,3070.8087,Milton,southwest
+45,female,25.175,2,no,9095.06825,Trenton,northeast
+57,female,31.825,0,no,11842.62375,Pinewood Estates,southwest
+47,male,32.3,1,no,8062.764,Leonard,southwest
+42,female,29.0,1,no,7050.642,Dodd City,southwest
+64,female,39.7,0,no,14319.031,Chesterfield,southeast
+38,female,19.475,2,no,6933.24225,Ryland Heights,southeast
+61,male,36.1,3,no,27941.28758,Overbrook,northwest
+53,female,26.7,2,no,11150.78,Harrodsburg,southeast
+44,female,36.48,0,no,12797.20962,Iberia,northeast
+19,female,28.88,0,yes,17748.5062,Backus,northwest
+41,male,34.2,2,no,7261.741,Cairo,northeast
+51,male,33.33,3,no,10560.4917,Bradford,northwest
+40,male,32.3,2,no,6986.697,Garden City,southwest
+45,male,39.805,0,no,7448.40395,Hettick,northeast
+35,male,34.32,3,no,5934.3798,Fort Scott,northwest
+53,male,28.88,0,no,9869.8102,Harrison,northwest
+30,male,24.4,3,yes,18259.216,Tishomingo,southwest
+18,male,41.14,0,no,1146.7966,North Branch,northeast
+51,male,35.97,1,no,9386.1613,Rothsay,northwest
+50,female,27.6,1,yes,24520.264,Post Lake,northeast
+31,female,29.26,1,no,4350.5144,Bon Air,southeast
+35,female,27.7,3,no,6414.178,Wharton,northeast
+60,male,36.955,0,no,12741.16745,Rome City,northeast
+21,male,36.86,0,no,1917.3184,Lone Oak,southeast
+29,male,22.515,3,no,5209.57885,Plymouth,northeast
+62,female,29.92,0,no,13457.9608,Blencoe,northwest
+39,female,41.8,0,no,5662.225,Colby,northwest
+19,male,27.6,0,no,1252.407,Symsonia,southeast
+22,female,23.18,0,no,2731.9122,Westwood,northwest
+53,male,20.9,0,yes,21195.818,Minooka,northeast
+39,female,31.92,2,no,7209.4918,Jeffersonville,northeast
+27,male,28.5,0,yes,18310.742,Patmos,southwest
+30,male,44.22,2,no,4266.1658,De Pue,northeast
+30,female,22.895,1,no,4719.52405,Kopperl,southwest
+58,female,33.1,0,no,11848.141,McCordsville,northeast
+33,male,24.795,0,yes,17904.52705,Windham,northeast
+42,female,26.18,1,no,7046.7222,Scottsbluff,northwest
+64,female,35.97,0,no,14313.8463,Bernice,southwest
+21,male,22.3,1,no,2103.08,Jerusalem,southwest
+18,female,42.24,0,yes,38792.6856,Sussex,northeast
+23,male,26.51,0,no,1815.8759,Artas,northwest
+45,female,35.815,0,no,7731.85785,La Grange,southeast
+40,female,41.42,1,no,28476.73499,Stout,northwest
+19,female,36.575,0,no,2136.88225,Cullom,northeast
+18,male,30.14,0,no,1131.5066,Backus,northwest
+25,male,25.84,1,no,3309.7926,Daleville,northeast
+46,female,30.8,3,no,9414.92,Moore,southwest
+33,female,42.94,3,no,6360.9936,Powhatan,southwest
+54,male,21.01,2,no,11013.7119,Farnhamville,northwest
+28,male,22.515,2,no,4428.88785,Bloomfield,northeast
+36,male,34.43,2,no,5584.3057,Hayesville,northeast
+20,female,31.46,0,no,1877.9294,Texarkana,southwest
+24,female,24.225,0,no,2842.76075,Neffs,northeast
+23,male,37.1,3,no,3597.596,Utica,southeast
+47,female,26.125,1,yes,23401.30575,Towanda,northwest
+33,female,35.53,0,yes,55135.40209,Hallowell,northwest
+45,male,33.7,1,no,7445.918,Stapleton,northwest
+26,male,17.67,0,no,2680.9493,Warson Woods,northwest
+18,female,31.13,0,no,1621.8827,Copeland,northwest
+44,female,29.81,2,no,8219.2039,Chesterfield,northeast
+60,male,24.32,0,no,12523.6048,Nevada,northwest
+64,female,31.825,2,no,16069.08475,Henderson,southeast
+56,male,31.79,2,yes,43813.8661,Appleby,southwest
+36,male,28.025,1,yes,20773.62775,Muncie,northeast
+41,male,30.78,3,yes,39597.4072,Bowring,southwest
+39,male,21.85,1,no,6117.4945,Red Level,southeast
+63,male,33.1,0,no,13393.756,Encinal,southwest
+36,female,25.84,0,no,5266.3656,Independence,northeast
+28,female,23.845,2,no,4719.73655,Fredonia,northwest
+58,male,34.39,0,no,11743.9341,Reinbeck,northwest
+36,male,33.82,1,no,5377.4578,Katie,southwest
+42,male,35.97,2,no,7160.3303,New Strawn,northwest
+36,male,31.5,0,no,4402.233,Rensselaer,northeast
+56,female,28.31,0,no,11657.7189,Northboro,northwest
+35,female,23.465,2,no,6402.29135,Emery,northwest
+59,female,31.35,0,no,12622.1795,Netawaka,northwest
+21,male,31.1,0,no,1526.312,Oswego,northwest
+59,male,24.7,0,no,12323.936,Portage Lakes,northeast
+23,female,32.78,2,yes,36021.0112,North Riverside,northeast
+57,female,29.81,0,yes,27533.9129,Excelsior,northwest
+53,male,30.495,0,no,10072.05505,Broseley,northwest
+60,female,32.45,0,yes,45008.9555,Pardeeville,northeast
+51,female,34.2,1,no,9872.701,Kimmell,northeast
+23,male,50.38,1,no,2438.0552,Martin Lake,northwest
+27,female,24.1,0,no,2974.126,Ashton,northwest
+55,male,32.775,0,no,10601.63225,Rock,northeast
+37,female,30.78,0,yes,37270.1512,Lambert,southwest
+61,male,32.3,2,no,14119.62,Blue Eye,northwest
+46,female,35.53,0,yes,42111.6647,Cascade,northwest
+53,female,23.75,2,no,11729.6795,Scammon,northwest
+49,female,23.845,3,yes,24106.91255,Metamora,northeast
+20,female,29.6,0,no,1875.344,Wardsville,northwest
+48,female,33.11,0,yes,40974.1649,Northmoor,northwest
+25,male,24.13,0,yes,15817.9857,Twin Brooks,northwest
+25,female,32.23,1,no,18218.16139,West Sharyland,southwest
+57,male,28.1,0,no,10965.446,Kent,northwest
+37,female,47.6,2,yes,46113.511,Lipscomb,southwest
+38,female,28.0,3,no,7151.092,Benton,southeast
+55,female,33.535,2,no,12269.68865,Abilene,northwest
+36,female,19.855,0,no,5458.04645,Holmesville,northeast
+51,male,25.4,0,no,8782.469,Young America,northeast
+40,male,29.9,2,no,6600.361,Preemption,northeast
+18,male,37.29,0,no,1141.4451,Empire,southwest
+57,male,43.7,1,no,11576.13,Arthur,northwest
+61,male,23.655,0,no,13129.60345,Spring Creek,northwest
+25,female,24.3,3,no,4391.652,Fort Coffee,southwest
+50,male,36.2,0,no,8457.818,Grand Tower,northeast
+26,female,29.48,1,no,3392.3652,Risco,northwest
+42,male,24.86,0,no,5966.8874,Norris,northeast
+43,male,30.1,1,no,6849.026,Wamac,northeast
+44,male,21.85,3,no,8891.1395,Colona,northeast
+23,female,28.12,0,no,2690.1138,Wilmore,northwest
+49,female,27.1,1,no,26140.3603,Philadelphia,southeast
+33,male,33.44,5,no,6653.7886,Reading,northeast
+41,male,28.8,1,no,6282.235,Lake Crystal,northwest
+37,female,29.5,2,no,6311.952,Belgium,northeast
+22,male,34.8,3,no,3443.064,Dell City,southwest
+23,male,27.36,1,no,2789.0574,North Ridgeville,northeast
+21,female,22.135,0,no,2585.85065,Tulsita,southwest
+51,female,37.05,3,yes,46255.1125,Glenbeulah,northeast
+25,male,26.695,4,no,4877.98105,Keewatin,northwest
+32,male,28.93,1,yes,19719.6947,Sunbury,northeast
+57,male,28.975,0,yes,27218.43725,Tea,northwest
+36,female,30.02,0,no,5272.1758,Winesburg,northeast
+22,male,39.5,0,no,1682.597,Roll,northeast
+57,male,33.63,1,no,11945.1327,Greenfield,northeast
+64,female,26.885,0,yes,29330.98315,Augusta,northeast
+36,female,29.04,4,no,7243.8136,Homestead Meadows North,southwest
+54,male,24.035,0,no,10422.91665,Underwood,northwest
+47,male,38.94,2,yes,44202.6536,Cayce,southeast
+62,male,32.11,0,no,13555.0049,Millersburg,southeast
+61,female,44.0,0,no,13063.883,Macon,southeast
+43,female,20.045,2,yes,19798.05455,Raymore,northwest
+19,male,25.555,1,no,2221.56445,Friesland,northeast
+18,female,40.26,0,no,1634.5734,St. Mary,northwest
+19,female,22.515,0,no,2117.33885,Pittsford,northeast
+49,male,22.515,0,no,8688.85885,Stoutsville,northwest
+60,male,40.92,0,yes,48673.5588,Pilgrim,northeast
+26,male,27.265,3,no,4661.28635,Great Bend,northwest
+49,male,36.85,0,no,8125.7845,Pelican Rapids,northwest
+60,female,35.1,0,no,12644.589,Albee,northwest
+26,female,29.355,2,no,4564.19145,Bogue Chitto,southeast
+27,male,32.585,3,no,4846.92015,Clifton,southeast
+44,female,32.34,1,no,7633.7206,Dwight,northwest
+63,male,39.8,3,no,15170.069,Troy,southeast
+32,female,24.6,0,yes,17496.306,Garrettsville,northeast
+22,male,28.31,1,no,2639.0429,New Cambria,northwest
+18,male,31.73,0,yes,33732.6867,Raleigh,southeast
+59,female,26.695,3,no,14382.70905,Knowlton,northeast
+44,female,27.5,1,no,7626.993,Orange,northeast
+33,male,24.605,2,no,5257.50795,Fort Deposit,southeast
+24,female,33.99,0,no,2473.3341,Prairie Home,northwest
+43,female,26.885,0,yes,21774.32215,Zwolle,southwest
+45,male,22.895,0,yes,35069.37452,Villa del Sol,southwest
+61,female,28.2,0,no,13041.921,Coin,northwest
+35,female,34.21,1,no,5245.2269,Freeport,southwest
+62,female,25.0,0,no,13451.122,Tekamah,northwest
+62,female,33.2,0,no,13462.52,Garfield,northwest
+38,male,31.0,1,no,5488.262,Alexandria,southeast
+34,male,35.815,0,no,4320.41085,Emerald Bay,southwest
+43,male,23.2,0,no,6250.435,South Russell,northeast
+50,male,32.11,2,no,25333.33284,Cathay,northwest
+19,female,23.4,2,no,2913.569,Auburn,southeast
+57,female,20.1,1,no,12032.326,Wilburton,southwest
+62,female,39.16,0,no,13470.8044,Ambia,northeast
+41,male,34.21,1,no,6289.7549,Taylor,northwest
+26,male,46.53,1,no,2927.0647,Spencer,northwest
+39,female,32.5,1,no,6238.298,Grand Point,southwest
+46,male,25.8,5,no,10096.97,Ash Flat,southwest
+45,female,35.3,0,no,7348.142,Mullinville,northwest
+32,male,37.18,2,no,4673.3922,Onalaska,southwest
+59,female,27.5,0,no,12233.828,Dulac,southwest
+44,male,29.735,2,no,32108.66282,Tolna,northwest
+39,female,24.225,5,no,8965.79575,Headrick,southwest
+18,male,26.18,2,no,2304.0022,Lakeland Shores,northwest
+53,male,29.48,0,no,9487.6442,Concordia,northwest
+18,male,23.21,0,no,1121.8739,Holt,northwest
+50,female,46.09,1,no,9549.5651,Addyston,northeast
+18,female,40.185,0,no,2217.46915,Dennison,northeast
+19,male,22.61,0,no,1628.4709,Baker,northwest
+62,male,39.93,0,no,12982.8747,Laurie,northwest
+56,female,35.8,1,no,11674.13,Lane,southwest
+42,male,35.8,2,no,7160.094,Drasco,southwest
+37,male,34.2,1,yes,39047.285,Draper,northwest
+42,male,31.255,0,no,6358.77645,Hampden,northwest
+25,male,29.7,3,yes,19933.458,Chatsworth,northeast
+57,male,18.335,0,no,11534.87265,South Mound,northwest
+51,male,42.9,2,yes,47462.894,Somerville,southeast
+30,female,28.405,1,no,4527.18295,Cartersburg,northeast
+44,male,30.2,2,yes,38998.546,Jeisyville,northeast
+34,male,27.835,1,yes,20009.63365,Amery,northeast
+31,male,39.49,1,no,3875.7341,Hamlin,northwest
+54,male,30.8,1,yes,41999.52,Clutier,northwest
+24,male,26.79,1,no,12609.88702,Plattsmouth,northwest
+43,male,34.96,1,yes,41034.2214,Greenfield,northwest
+48,male,36.67,1,no,28468.91901,Comstock,northwest
+19,female,39.615,1,no,2730.10785,Tuscola,northeast
+29,female,25.9,0,no,3353.284,Thibodaux,southwest
+63,female,35.2,1,no,14474.675,Bohners Lake,northeast
+46,male,24.795,3,no,9500.57305,Terlingua,southwest
+52,male,36.765,2,no,26467.09737,Nances Creek,southeast
+35,male,27.1,1,no,4746.344,Arp,southwest
+51,male,24.795,2,yes,23967.38305,South Webster,northeast
+44,male,25.365,1,no,7518.02535,La Coma Heights,southwest
+21,male,25.745,2,no,3279.86855,Plymouth,northeast
+39,female,34.32,5,no,8596.8278,Bendon,northeast
+50,female,28.16,3,no,10702.6424,Carrizo Springs,southwest
+34,female,23.56,0,no,4992.3764,Waldenburg,southwest
+22,female,20.235,0,no,2527.81865,Elizabethtown,northeast
+19,female,40.5,0,no,1759.338,Martinsville,northeast
+26,male,35.42,0,no,2322.6218,Carolina,southeast
+29,male,22.895,0,yes,16138.76205,Blaine,northeast
+48,male,40.15,0,no,7804.1605,Council Grove,northwest
+26,male,29.15,1,no,2902.9065,Dyer,northeast
+45,female,39.995,3,no,9704.66805,Nelagoney,southwest
+36,female,29.92,0,no,4889.0368,Onslow,northwest
+54,male,25.46,1,no,25517.11363,Leaf River,northeast
+34,male,21.375,0,no,4500.33925,Marcelline,northeast
+31,male,25.9,3,yes,19199.944,Floraville,northeast
+27,female,30.59,1,no,16796.41194,Miesville,northwest
+20,male,30.115,5,no,4915.05985,Churdan,northwest
+44,female,25.8,1,no,7624.63,Ola,northwest
+43,male,30.115,3,no,8410.04685,Rozel,northwest
+45,female,27.645,1,no,28340.18885,Fort Seneca,northeast
+34,male,34.675,0,no,4518.82625,Marysville,northeast
+24,female,20.52,0,yes,14571.8908,Anna,northeast
+26,female,19.8,1,no,3378.91,Bohners Lake,northeast
+38,female,27.835,2,no,7144.86265,Wilson,northwest
+50,female,31.6,2,no,10118.424,Carlton,southeast
+38,male,28.27,1,no,5484.4673,Wallace,northwest
+27,female,20.045,3,yes,16420.49455,Glenwood,northwest
+39,female,23.275,3,no,7986.47525,Johnston City,northeast
+39,female,34.1,3,no,7418.522,Lakeport,southwest
+63,female,36.85,0,no,13887.9685,Gage,southwest
+33,female,36.29,3,no,6551.7501,Magazine,southwest
+36,female,26.885,0,no,5267.81815,Rantoul,northwest
+30,male,22.99,2,yes,17361.7661,Hokah,northwest
+24,male,32.7,0,yes,34472.841,Hamlet,northeast
+24,male,25.8,0,no,1972.95,Luverne,northwest
+48,male,29.6,0,no,21232.18226,Tiptonville,southeast
+47,male,19.19,1,no,8627.5411,South Whitley,northeast
+29,male,31.73,2,no,4433.3877,Astoria,northeast
+28,male,29.26,2,no,4438.2634,Castor,southwest
+47,male,28.215,3,yes,24915.22085,Brook Park,northwest
+25,male,24.985,2,no,23241.47453,Keshena,northeast
+51,male,27.74,1,no,9957.7216,Hill Country Village,southwest
+48,female,22.8,0,no,8269.044,Moline Acres,northwest
+43,male,20.13,2,yes,18767.7377,Andrews,southwest
+61,female,33.33,4,no,36580.28216,Palmer,southwest
+48,male,32.3,1,no,8765.249,New Auburn,northeast
+38,female,27.6,0,no,5383.536,New Alluwe,southwest
+59,male,25.46,0,no,12124.9924,Chilhowee,northwest
+19,female,24.605,1,no,2709.24395,Grape Creek,southwest
+26,female,34.2,2,no,3987.926,Raymond,northeast
+54,female,35.815,3,no,12495.29085,Neal,northwest
+21,female,32.68,2,no,26018.95052,Harrisonburg,southwest
+51,male,37.0,0,no,8798.593,Sunset,southwest
+22,female,31.02,3,yes,35595.5898,Sarles,northwest
+47,male,36.08,1,yes,42211.1382,Davenport,southwest
+18,male,23.32,1,no,1711.0268,Lake Lafayette,northwest
+47,female,45.32,1,no,8569.8618,Union City,southeast
+21,female,34.6,0,no,2020.177,Addison,northeast
+19,male,26.03,1,yes,16450.8947,Darlington,northeast
+23,male,18.715,0,no,21595.38229,Amesville,northeast
+54,male,31.6,0,no,9850.432,Iglesia Antigua,southwest
+37,female,17.29,2,no,6877.9801,Bastrop,southwest
+46,female,23.655,1,yes,21677.28345,Plum City,northeast
+55,female,35.2,0,yes,44423.803,Solon Mills,northeast
+30,female,27.93,0,no,4137.5227,Lake City,southwest
+18,male,21.565,0,yes,13747.87235,Lake Tansi,southeast
+61,male,38.38,0,no,12950.0712,Browning,northeast
+54,female,23.0,3,no,12094.478,Throckmorton,southwest
+22,male,37.07,2,yes,37484.4493,Oden,northeast
+45,female,30.495,1,yes,39725.51805,McNeil,southwest
+22,male,28.88,0,no,2250.8352,Commerce,southwest
+19,male,27.265,2,no,22493.65964,Moran,southwest
+35,female,28.025,0,yes,20234.85475,Camp Crook,northwest
+18,male,23.085,0,no,1704.70015,Hopkins Park,northeast
+20,male,30.685,0,yes,33475.81715,Kirtland Hills,northeast
+28,female,25.8,0,no,3161.454,Wren,northeast
+55,male,35.245,1,no,11394.06555,Rockland,northeast
+43,female,24.7,2,yes,21880.82,Langleyville,northeast
+43,female,25.08,0,no,7325.0482,Trafalgar,northeast
+22,male,52.58,1,yes,44501.3982,Bassett,northwest
+25,female,22.515,1,no,3594.17085,Erlanger,southeast
+49,male,30.9,0,yes,39727.614,La Villa,southwest
+44,female,36.955,1,no,8023.13545,Cazenovia,northeast
+64,male,26.41,0,no,14394.5579,Lake Lorelei,northeast
+49,male,29.83,1,no,9288.0267,Williford,southwest
+47,male,29.8,3,yes,25309.489,Watersmeet,northeast
+27,female,21.47,0,no,3353.4703,Lorenzo,southwest
+55,male,27.645,0,no,10594.50155,Tioga,southwest
+48,female,28.9,0,no,8277.523,Viking,northwest
+45,female,31.79,0,no,17929.30337,Volo,northeast
+24,female,39.49,0,no,2480.9791,Jackson,northeast
+32,male,33.82,1,no,4462.7218,Mehan,southwest
+24,male,32.01,0,no,1981.5819,Henryetta,southwest
+57,male,27.94,1,no,11554.2236,North Zanesville,northeast
+59,male,41.14,1,yes,48970.2476,Yeager,southwest
+36,male,28.595,3,no,6548.19505,Calumet City,northeast
+29,female,25.6,4,no,5708.867,Lacassine,southwest
+42,female,25.3,1,no,7045.499,Augusta,northwest
+48,male,37.29,2,no,8978.1851,Sparks,southwest
+39,male,42.655,0,no,5757.41345,Oxly,northwest
+63,male,21.66,1,no,14349.8544,Westworth Village,southwest
+54,female,31.9,1,no,10928.849,Vandalia,northeast
+37,male,37.07,1,yes,39871.7043,Wheelersburg,northeast
+63,male,31.445,0,no,13974.45555,Gettysburg,northwest
+21,male,31.255,0,no,1909.52745,Parma,northeast
+54,female,28.88,2,no,12096.6512,Chestnut,northeast
+60,female,18.335,0,no,13204.28565,De Leon,southwest
+32,female,29.59,1,no,4562.8421,Oakwood,southwest
+47,female,32.0,1,no,8551.347,Fremont,northwest
+21,male,26.03,0,no,2102.2647,Winchester,northeast
+28,male,31.68,0,yes,34672.1472,Mountain View,southwest
+63,male,33.66,3,no,15161.5344,Obetz,northeast
+18,male,21.78,2,no,11884.04858,Advance,northeast
+32,male,27.835,1,no,4454.40265,Socorro,southwest
+38,male,19.95,1,no,5855.9025,Lake Viking,northwest
+32,male,31.5,1,no,4076.497,Manvel,southwest
+62,female,30.495,2,no,15019.76005,Freetown,northeast
+39,female,18.3,5,yes,19023.26,College Corner,northeast
+55,male,28.975,0,no,10796.35025,North Vernon,northeast
+57,male,31.54,0,no,11353.2276,Kent Estates,northwest
+52,male,47.74,1,no,9748.9106,Edgefield,southwest
+56,male,22.1,0,no,10577.087,Wood Lake,northwest
+47,male,36.19,0,yes,41676.0811,Decorah,northwest
+55,female,29.83,0,no,11286.5387,Ball Club,northwest
+23,male,32.7,3,no,3591.48,Honey Grove,southwest
+22,female,30.4,0,yes,33907.548,Waite Park,northwest
+50,female,33.7,4,no,11299.343,Clermont,northeast
+18,female,31.35,4,no,4561.1885,Leetonia,northeast
+51,female,34.96,2,yes,44641.1974,Hickory,southeast
+22,male,33.77,0,no,1674.6323,Riverdale,northwest
+52,female,30.875,0,no,23045.56616,Moundville,northwest
+25,female,33.99,1,no,3227.1211,Hawkins,northeast
+33,female,19.095,2,yes,16776.30405,Burnside,southeast
+53,male,28.6,3,no,11253.421,Burchinal,northwest
+29,male,38.94,1,no,3471.4096,Bond,southeast
+58,male,36.08,0,no,11363.2832,Elmwood,northeast
+37,male,29.8,0,no,20420.60465,Warroad,northwest
+54,female,31.24,0,no,10338.9316,Copper City,northeast
+49,female,29.925,0,no,8988.15875,Lawson,northwest
+50,female,26.22,2,no,10493.9458,Sheridan,northeast
+26,male,30.0,1,no,2904.088,Harper,southwest
+45,male,20.35,3,no,8605.3615,Mansfield,southwest
+54,female,32.3,1,no,11512.405,Tilden,southwest
+38,male,38.39,3,yes,41949.2441,Unicoi,southeast
+48,female,25.85,3,yes,24180.9335,Ferndale,northeast
+28,female,26.315,3,no,5312.16985,Grandin,northwest
+23,male,24.51,0,no,2396.0959,Mayville,northwest
+55,male,32.67,1,no,10807.4863,Emerson,northwest
+41,male,29.64,5,no,9222.4026,Edgecliff Village,southwest
+25,male,33.33,2,yes,36124.5737,Missouri City,northwest
+33,male,35.75,1,yes,38282.7495,Curtis,northwest
+30,female,19.95,3,no,5693.4305,Conesville,northeast
+23,female,31.4,0,yes,34166.273,Bienville,southwest
+46,male,38.17,2,no,8347.1643,Fort Jesup,southwest
+53,female,36.86,3,yes,46661.4424,Wellston,northeast
+27,female,32.395,1,no,18903.49141,Cole,southwest
+23,female,42.75,1,yes,40904.1995,Cairo,northwest
+63,female,25.08,0,no,14254.6082,Bordelonville,southwest
+55,male,29.9,0,no,10214.636,St. Louis,northwest
+35,female,35.86,2,no,5836.5204,Morrisonville,northeast
+34,male,32.8,1,no,14358.36437,Krugerville,southwest
+19,female,18.6,0,no,1728.897,Buffalo City,southwest
+39,female,23.87,5,no,8582.3023,Bunker,northwest
+27,male,45.9,2,no,3693.428,Diamond Bluff,northeast
+57,male,40.28,0,no,20709.02034,Regal,northwest
+52,female,18.335,0,no,9991.03765,Clinton,northeast
+28,male,33.82,0,no,19673.33573,Biltmore,southeast
+50,female,28.12,3,no,11085.5868,Fairmont,northwest
+44,female,25.0,1,no,7623.518,Lake Arrowhead,northwest
+26,female,22.23,0,no,3176.2877,Patton Village,southwest
+33,male,30.25,0,no,3704.3545,Silex,northwest
+19,female,32.49,0,yes,36898.73308,Rolling Meadows,northeast
+50,male,37.07,1,no,9048.0273,Columbia Heights,northwest
+41,female,32.6,3,no,7954.517,Pine Ridge,southeast
+52,female,24.86,0,no,27117.99378,Sulphur,southwest
+39,male,32.34,2,no,6338.0756,Wetonka,northwest
+50,male,32.3,2,no,9630.397,Seymour,southeast
+52,male,32.775,3,no,11289.10925,Spring Hill,northeast
+60,male,32.8,0,yes,52590.82939,Moody,southeast
+20,female,31.92,0,no,2261.5688,Shidler,southwest
+55,male,21.5,1,no,10791.96,Kinderhook,northeast
+42,male,34.1,0,no,5979.731,Jamestown,southeast
+18,female,30.305,0,no,2203.73595,Princeton,northwest
+58,female,36.48,0,no,12235.8392,Lafayette,northwest
+43,female,32.56,3,yes,40941.2854,Huber Heights,northeast
+35,female,35.815,1,no,5630.45785,Lafferty,northeast
+48,female,27.93,4,no,11015.1747,Socorro,southwest
+36,female,22.135,3,no,7228.21565,Macksburg,northwest
+19,male,44.88,0,yes,39722.7462,New Palestine,northeast
+23,female,23.18,2,no,14426.07385,Mineral,northeast
+20,female,30.59,0,no,2459.7201,Elsberry,northwest
+32,female,41.1,0,no,3989.841,Aniwa,northeast
+43,female,34.58,1,no,7727.2532,West Brooklyn,northeast
+34,male,42.13,2,no,5124.1887,Pioneer Village,southeast
+30,male,38.83,1,no,18963.17192,Markham,northeast
+18,female,28.215,0,no,2200.83085,East Gillespie,northeast
+41,female,28.31,1,no,7153.5539,Burton,northeast
+35,female,26.125,0,no,5227.98875,Harrison,northwest
+57,male,40.37,0,no,10982.5013,Bishop,southwest
+29,female,24.6,2,no,4529.477,Tonica,northeast
+32,male,35.2,2,no,4670.64,Green Isle,northwest
+37,female,34.105,1,no,6112.35295,Niles,northwest
+18,male,27.36,1,yes,17178.6824,Jet,southwest
+43,female,26.7,2,yes,22478.6,Centerville,southeast
+56,female,41.91,0,no,11093.6229,Bulverde,southwest
+38,male,29.26,2,no,6457.8434,Oblong,northeast
+29,male,32.11,2,no,4433.9159,Seadrift,southwest
+22,female,27.1,0,no,2154.361,Harker Heights,southwest
+52,female,24.13,1,yes,23887.6627,Spring Hill,northwest
+40,female,27.4,1,no,6496.886,Greenwood,northwest
+23,female,34.865,0,no,2899.48935,Owl Ranch,southwest
+31,male,29.81,0,yes,19350.3689,Howardwick,southwest
+42,female,41.325,1,no,7650.77375,Gaylord,northwest
+24,female,29.925,0,no,2850.68375,Clarinda,northwest
+25,female,30.3,0,no,2632.992,Machesney Park,northeast
+48,female,27.36,1,no,9447.3824,Rice,southwest
+23,female,28.49,1,yes,18328.2381,Slayden,southeast
+45,male,23.56,2,no,8603.8234,Bonne Terre,northwest
+20,male,35.625,3,yes,37465.34375,Alexander City,southeast
+62,female,32.68,0,no,13844.7972,Fults,northeast
+43,female,25.27,1,yes,21771.3423,Kewaskum,northeast
+23,female,28.0,0,no,13126.67745,Carlisle,southeast
+31,female,32.775,2,no,5327.40025,Villa Ridge,northwest
+41,female,21.755,1,no,13725.47184,University Park,northwest
+58,female,32.395,1,no,13019.16105,Cowles,northwest
+48,female,36.575,0,no,8671.19125,Deshler,northwest
+31,female,21.755,0,no,4134.08245,Hoisington,northwest
+19,female,27.93,3,no,18838.70366,Waverly,northeast
+19,female,30.02,0,yes,33307.5508,Goshen,northeast
+41,male,33.55,0,no,5699.8375,Wilton,southeast
+40,male,29.355,1,no,6393.60345,Greendale,northwest
+31,female,25.8,2,no,4934.705,Vernon,northeast
+37,male,24.32,2,no,6198.7518,Hooks,southwest
+46,male,40.375,2,no,8733.22925,Crystal City,southwest
+22,male,32.11,0,no,2055.3249,Savonburg,northwest
+51,male,32.3,1,no,9964.06,Meckling,northwest
+18,female,27.28,3,yes,18223.4512,Kinston,southeast
+35,male,17.86,1,no,5116.5004,Boyne Falls,northeast
+59,female,34.8,2,no,36910.60803,New Ulm,southwest
+36,male,33.4,2,yes,38415.474,Landfall,northwest
+37,female,25.555,1,yes,20296.86345,Graford,southwest
+59,male,37.1,1,no,12347.172,Clay Center,northwest
+36,male,30.875,1,no,5373.36425,Westervelt,northeast
+39,male,34.1,2,no,23563.01618,Montague,southwest
+18,male,21.47,0,no,1702.4553,New Milford,northeast
+52,female,33.3,2,no,10806.839,Ponca,southwest
+27,female,31.255,1,no,3956.07145,Munjor,northwest
+18,male,39.14,0,no,12890.05765,Birmingham,northeast
+40,male,25.08,0,no,5415.6612,Beasley,southwest
+29,male,37.29,2,no,4058.1161,Bloomingdale,northeast
+46,female,34.6,1,yes,41661.602,Massieville,northeast
+38,female,30.21,3,no,7537.1639,Dyer,southwest
+30,female,21.945,1,no,4718.20355,Harlan,southeast
+40,male,24.97,2,no,6593.5083,La Paloma,southwest
+50,male,25.3,0,no,8442.667,Mystic,northwest
+20,female,24.42,0,yes,26125.67477,Hampton,southeast
+41,male,23.94,1,no,6858.4796,Onsted,northeast
+33,female,39.82,1,no,4795.6568,Mannsville,southwest
+38,male,16.815,2,no,6640.54485,Tellico Plains,southeast
+42,male,37.18,2,no,7162.0122,Utopia,southwest
+56,male,34.43,0,no,10594.2257,Berkeley,northeast
+58,male,30.305,0,no,11938.25595,Boyne Falls,northeast
+52,male,34.485,3,yes,60021.39897,Von Ormy,southwest
+20,female,21.8,0,yes,20167.33603,Sugarcreek,northeast
+54,female,24.605,3,no,12479.70895,Wabasso,northwest
+58,male,23.3,0,no,11345.519,Ladysmith,northeast
+45,female,27.83,2,no,8515.7587,Uniontown,northeast
+26,male,31.065,0,no,2699.56835,Spring Green,northeast
+63,female,21.66,0,no,14449.8544,Bucyrus,northwest
+58,female,28.215,0,no,12224.35085,Dadeville,southeast
+37,male,22.705,3,no,6985.50695,Galesburg,northeast
+25,female,42.13,1,no,3238.4357,Helena,northeast
+52,male,41.8,2,yes,47269.854,Turley,southwest
+64,male,36.96,2,yes,49577.6624,Hanover,northwest
+22,female,21.28,3,no,4296.2712,Lebanon,northwest
+28,female,33.11,0,no,3171.6149,Claire City,northwest
+18,male,33.33,0,no,1135.9407,Blue Grass,northwest
+28,male,24.3,5,no,5615.369,Wolsey,northwest
+45,female,25.7,3,no,9101.798,Rogersville,southeast
+33,male,29.4,4,no,6059.173,Ferrelview,northwest
+18,female,39.82,0,no,1633.9618,Winona,northwest
+32,male,33.63,1,yes,37607.5277,Gordon,northeast
+24,male,29.83,0,yes,18648.4217,Saucier,southeast
+19,male,19.8,0,no,1241.565,Mila Doce,southwest
+20,male,27.3,0,yes,16232.847,Longview,northeast
+40,female,29.3,4,no,15828.82173,Wolf Creek Colony,northwest
+34,female,27.72,0,no,4415.1588,Allenville,northeast
+42,female,37.9,0,no,6474.013,Drexel,northeast
+51,female,36.385,3,no,11436.73815,Cedarville,northeast
+54,female,27.645,1,no,11305.93455,Glen Rose,southwest
+55,male,37.715,3,no,30063.58055,Rutland,northeast
+52,female,23.18,0,no,10197.7722,College Corner,northeast
+32,female,20.52,0,no,4544.2348,Orason,southwest
+28,male,37.1,1,no,3277.161,Leary,southwest
+41,female,28.05,1,no,6770.1925,Kimmswick,northwest
+43,female,29.9,1,no,7337.748,Havelock,northwest
+49,female,33.345,2,no,10370.91255,Jefferson,northeast
+64,male,23.76,0,yes,26926.5144,Madeira,northeast
+55,female,30.5,0,no,10704.47,Frisco,southwest
+24,male,31.065,0,yes,34254.05335,Loves Park,northeast
+20,female,33.3,0,no,1880.487,South Roxana,northeast
+45,male,27.5,3,no,8615.3,Prescott,northeast
+26,male,33.915,1,no,3292.52985,Hill City,northwest
+25,female,34.485,0,no,3021.80915,Mendota,northeast
+43,male,25.52,5,no,14478.33015,Blue Ridge,southwest
+35,male,27.61,1,no,4747.0529,Modale,northwest
+26,male,27.06,0,yes,17043.3414,Valley Forge,southeast
+57,male,23.7,0,no,10959.33,Plato,northwest
+22,female,30.4,0,no,2741.948,Welcome,southwest
+32,female,29.735,0,no,4357.04365,Bethel Springs,southeast
+39,male,29.925,1,yes,22462.04375,Gobles,northeast
+25,female,26.79,2,no,4189.1131,Warrensburg,northwest
+48,female,33.33,0,no,8283.6807,Sweeny,southwest
+47,female,27.645,2,yes,24535.69855,Grover Hill,northeast
+18,female,21.66,0,yes,14283.4594,Waubay,northwest
+18,male,30.03,1,no,1720.3537,Bennet,northwest
+61,male,36.3,1,yes,47403.88,De Witt,northwest
+47,female,24.32,0,no,8534.6718,Gambier,northeast
+28,female,17.29,0,no,3732.6251,Hill City,northwest
+36,female,25.9,1,no,5472.449,Varina,northwest
+20,male,39.4,2,yes,38344.566,Easton,northeast
+44,male,34.32,1,no,7147.4728,Hashtown,northeast
+38,female,19.95,2,no,7133.9025,Haywood,southwest
+19,male,34.9,0,yes,34828.654,McCool Junction,northwest
+21,male,23.21,0,no,1515.3449,De Graff,northwest
+46,male,25.745,3,no,9301.89355,Denison,northwest
+58,male,25.175,0,no,11931.12525,Cawood,southeast
+20,male,22.0,1,no,1964.78,Mortons Gap,southeast
+18,male,26.125,0,no,1708.92575,Kildeer,northeast
+28,female,26.51,2,no,4340.4409,Wheaton,northeast
+33,male,27.455,2,no,5261.46945,Shorewood Forest,northeast
+19,female,25.745,1,no,2710.82855,Nelson,northwest
+45,male,30.36,0,yes,62592.87309,Dukedom,southeast
+62,male,30.875,3,yes,46718.16325,Three Creeks,northwest
+25,female,20.8,1,no,3208.787,Wabbaseka,southwest
+43,male,27.8,0,yes,37829.7242,Maurice,northwest
+42,male,24.605,2,yes,21259.37795,Columbus Junction,northwest
+24,female,27.72,0,no,2464.6188,Windsor,northeast
+29,female,21.85,0,yes,16115.3045,Chesterfield,northeast
+32,male,28.12,4,yes,21472.4788,Joice,northwest
+25,female,30.2,0,yes,33900.653,Shackle Island,southeast
+41,male,32.2,2,no,6875.961,Mahomet,northeast
+42,male,26.315,1,no,6940.90985,Brownstown,northeast
+33,female,26.695,0,no,4571.41305,East Bethel,northwest
+34,male,42.9,1,no,4536.259,Scooba,southeast
+19,female,34.7,2,yes,36397.576,Olmos Park,southwest
+30,female,23.655,3,yes,18765.87545,Buck Creek,northeast
+18,male,28.31,1,no,11272.33139,Converse,southwest
+19,female,20.6,0,no,1731.677,Shelby,northeast
+18,male,53.13,0,no,1163.4627,Emerald,northwest
+35,male,39.71,4,no,19496.71917,Merrifield,northwest
+39,female,26.315,2,no,7201.70085,Panola,southwest
+31,male,31.065,3,no,5425.02335,Elizabethtown,northeast
+62,male,26.695,0,yes,28101.33305,Valeria,northwest
+62,male,38.83,0,no,12981.3457,Troy,northeast
+42,female,40.37,2,yes,43896.3763,Sandyville,northwest
+31,male,25.935,1,no,4239.89265,Hannibal,northwest
+61,male,33.535,0,no,13143.33665,Naper,northwest
+42,female,32.87,0,no,7050.0213,Coalmont,southeast
+51,male,30.03,1,no,9377.9047,Voltaire,northwest
+23,female,24.225,2,no,22395.74424,Ludlow Falls,northeast
+52,male,38.6,2,no,10325.206,Raywick,southeast
+57,female,25.74,2,no,12629.1656,Burke,northwest
+23,female,33.4,0,no,10795.93733,McKinley Heights,northeast
+52,female,44.7,3,no,11411.685,Climbing Hill,northwest
+50,male,30.97,3,no,10600.5483,Westdale,southwest
+18,female,31.92,0,no,2205.9808,Stuart,northwest
+18,female,36.85,0,no,1629.8335,Rosiclare,northeast
+21,female,25.8,0,no,2007.945,Castle,southwest
+61,female,29.07,0,yes,29141.3603,Chippewa Park,northeast
